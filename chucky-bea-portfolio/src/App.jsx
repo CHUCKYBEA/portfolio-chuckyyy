@@ -210,8 +210,8 @@ function App() {
             <div className="contact-panel">
               <span className="micro-label">ESTABLISH CONNECTION</span>
               <a href="mailto:chuckybea@yahoo.com" className="contact-link"><span><Mail size={18}/> EMAIL</span><b>chuckybea@yahoo.com</b><ArrowUpRight size={18}/></a>
-              <a href="https://github.com/" target="_blank" rel="noreferrer" className="contact-link"><span><Github size={18}/> GITHUB</span><b>Explore repositories</b><ArrowUpRight size={18}/></a>
-              <a href="https://t.me/" target="_blank" rel="noreferrer" className="contact-link"><span><Send size={18}/> TELEGRAM</span><b>Send a message</b><ArrowUpRight size={18}/></a>
+              <a href="https://github.com/CHUCKYBEA" target="_blank" rel="noreferrer" className="contact-link"><span><Github size={18}/> GITHUB</span><b>Explore repositories</b><ArrowUpRight size={18}/></a>
+              <a href="t.me/ChuckyBea" target="_blank" rel="noreferrer" className="contact-link"><span><Send size={18}/> TELEGRAM</span><b>Send a message</b><ArrowUpRight size={18}/></a>
               <div className="contact-disclaimer">Replace the placeholder contact details and social URLs with your real accounts before publishing.</div>
             </div>
           </div>
